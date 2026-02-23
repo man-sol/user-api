@@ -6,14 +6,6 @@ It demonstrates concepts such as routing, middleware, HTTP methods, status codes
 
 ---
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Setup & Run](#setup--run)
-- [API Routes](#api-routes)
-- [Middleware](#middleware)
-- [Error Handling](#error-handling)
-- [Testing](#testing)
-- [Notes](#notes)
 
 ---
 
