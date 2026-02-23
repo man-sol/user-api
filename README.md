@@ -20,7 +20,15 @@ It demonstrates concepts such as routing, middleware, HTTP methods, status codes
 ## Setup & Run
 
 1. Clone the repository or extract the zip folder.
+
+git clone https://github.com/man-sol/user-api.git
+
 2. Install dependencies:
+npm install
+
+or
+
+download from : https://github.com/man-sol/user-api
 
 ```bash
 npm install
